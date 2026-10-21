@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 秘密情報
+.env
+
+# 顧客の個人情報・取引の詳細は Git に入れない
+customers/
+private/
