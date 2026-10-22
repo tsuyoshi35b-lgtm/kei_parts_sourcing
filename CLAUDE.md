@@ -11,8 +11,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 最初の商材は**軽トラ（日本国内向け軽トラック）の部品**。在庫を持たず、前金を受けてから仕入れる
 - 価値の源泉は価格差ではなく「車台番号からの部品特定」「日本の仕入れ網」「まとめ発送」「見つからない部品の探索」
 
-## 状態（更新日：2026-10-21）
-- 段階0（土台づくり）の前。調査と方針決定まで完了。まだ営業メールは送っていない
+## 状態（更新日：2026-10-22）
+- **停止（D-009）**。需要と利益率を調べた結果、薄利で事業として旨味がないと判断し、試験をせずに止めた。`99_archive/` に移す
+- 営業メールは送っていない。開業届・古物商許可の申請もしていない
 - 決めたことは `DECISIONS.md`、進め方と判断基準は `PLAN.md`
 - 調査レポート（Claude Docs）：https://claude.ai/artifact/So1mfqkRrnqcnv1BmtWT8s （タブ：本文／輸入業者リスト・メール／進め方・新商材／ホビー商材／大工道具）
 - GitHub（private）：https://github.com/tsuyoshi35b-lgtm/kei_parts_sourcing 。`main` は `origin/main` を追跡。携帯からの操作手順は `docs/SETUP_GITHUB_MOBILE.md`
