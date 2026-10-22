@@ -15,7 +15,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 段階0（土台づくり）の前。調査と方針決定まで完了。まだ営業メールは送っていない
 - 決めたことは `DECISIONS.md`、進め方と判断基準は `PLAN.md`
 - 調査レポート（Claude Docs）：https://claude.ai/artifact/So1mfqkRrnqcnv1BmtWT8s （タブ：本文／輸入業者リスト・メール／進め方・新商材／ホビー商材／大工道具）
-- リモート `origin` は設定済みだが、GitHub への最初の push はまだ（`main` に upstream なし）。手順は `docs/SETUP_GITHUB_MOBILE.md`
+- GitHub（private）：https://github.com/tsuyoshi35b-lgtm/kei_parts_sourcing 。`main` は `origin/main` を追跡。携帯からの操作手順は `docs/SETUP_GITHUB_MOBILE.md`
 - コード（`tools/`）はまだ無い。ビルド・テストのコマンドも無い
 
 ## 最初に読むもの
