@@ -14,6 +14,7 @@
 | `docs/03_operations_flow.md` | 注文1件の流れと、AIと人の役割分担 |
 | `docs/04_research_summary.md` | 市場調査の要約（GPT・Geminiとの比較を含む） |
 | `docs/05_future_candidates.md` | 将来の候補（FA部品・大工道具・対物レンズなど） |
+| `docs/06_demand_research_ebay.md` | eBay の成約データによる需要調査（軽トラ部品・FA・大工道具ほか、2026-10-22） |
 | `outreach/importer_list.csv` | 営業先リスト（米国46社・欧州4社、状況を書き込む） |
 | `outreach/email_templates.md` | 英文の営業メール3通（和訳つき） |
 | `data/parts_db.csv` | 部品データベースのひな形（車台番号→品番→仕入れ先→価格→納期） |
