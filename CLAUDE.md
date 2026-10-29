@@ -12,7 +12,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 価値の源泉は価格差ではなく「車台番号からの部品特定」「日本の仕入れ網」「まとめ発送」「見つからない部品の探索」
 
 ## 状態（更新日：2026-10-29）
-- **停止（D-009）**。需要と利益率を調べた結果、薄利で事業として旨味がないと判断し、試験をせずに止めた。2026-10-29 に `99_archive/` へ移し、さらに外部ドライブ `D:\C_moved_20261029\99_archive\` へ移した
+- **停止（D-009）**。需要と利益率を調べた結果、薄利で事業として旨味がないと判断し、試験をせずに止めた。2026-10-29 に `99_archive/` へ移し、さらに外部ドライブ D: に zip で移した（`D:\C_moved_20261029\99_archive_zip\kei_parts_sourcing.zip`）
 - 営業メールは送っていない。開業届・古物商許可の申請もしていない
 - 決めたことは `DECISIONS.md`、進め方と判断基準は `PLAN.md`
 - 調査レポート（Claude Docs）：https://claude.ai/artifact/So1mfqkRrnqcnv1BmtWT8s （タブ：本文／輸入業者リスト・メール／進め方・新商材／ホビー商材／大工道具）
